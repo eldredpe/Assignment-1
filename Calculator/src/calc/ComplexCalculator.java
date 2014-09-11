@@ -1,3 +1,5 @@
+//Peter Eldred
+
 package calc;
 
 public class ComplexCalculator {
